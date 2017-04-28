@@ -1,1 +1,0 @@
-To test deleting operation in Git.
