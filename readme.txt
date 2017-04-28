@@ -5,4 +5,5 @@ Git tracks changes of files.
 Git creates a new branch is very quick.
 Git leads conflicts sometimes mergeing branches.
 I have not finished work yet, but I have to fix one bug in master branch firstly.
-To push origin dev branch. 
+To push origin dev branch.
+On another client to develp programme.  
